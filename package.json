@@ -1,0 +1,32 @@
+{
+  "name": "es6-basis",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Proyecto aprendizaje es6",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel2512-UTF/Proyecto-es6.git"
+  },
+  "keywords": [
+    "arreglos",
+    "funciones",
+    "objetos"
+  ],
+  "author": "Miguel Wilchez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguel2512-UTF/Proyecto-es6/issues"
+  },
+  "homepage": "https://github.com/miguel2512-UTF/Proyecto-es6#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
