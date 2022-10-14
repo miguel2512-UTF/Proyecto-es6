@@ -7,7 +7,7 @@ const exito =(response)=> {
     const tipos = JSON.parse(response).results
     tipos.forEach((tipo)=>{
         console.log(`Tipo: ${tipo.name}`)
-        console.log('*..-..+..._...+..-..*')
+        console.log('------------------')
     })
     //console.log(JSON.parse(response).results);
 }

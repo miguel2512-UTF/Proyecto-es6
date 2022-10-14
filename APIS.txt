@@ -1,0 +1,3 @@
+https://ws-public.interpol.int/notices/v1/red
+https://passwordinator.herokuapp.com?num=true&caps=true
+https://random-names-api.herokuapp.com/random
